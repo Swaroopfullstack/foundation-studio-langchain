@@ -1,0 +1,10 @@
+{
+  "title": "Foundation Studio",
+  "repository": "foundation-studio-langchain",
+  "description": "Runnable LangChain foundations: LCEL, prompts, structured output, streaming, middleware, tool review and checkpoint labs.",
+  "demo": "foundation",
+  "url": "https://github.com/Swaroopfullstack/foundation-studio-langchain",
+  "source_revision": "d4880b602e4748815f0fd0533d4dcb892585e02a",
+  "source_project": "07-foundation-studio",
+  "runtime": "vendored self-contained portfolio package"
+}
